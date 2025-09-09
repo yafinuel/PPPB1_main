@@ -1,1 +1,1 @@
-# Kode praktikum dapat dilihat melalui Branch
+# Praktikum 4 dapat dilihat melalui Branch navigationExample dan branch myShop
